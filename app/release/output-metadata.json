@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.google.android.apps.bard",
+  "applicationId": "com.samsung.android.app.tips",
   "variantName": "release",
   "elements": [
     {
@@ -33,5 +33,5 @@
       ]
     }
   ],
-  "minSdkVersionForDexing": 34
+  "minSdkVersionForDexing": 33
 }
